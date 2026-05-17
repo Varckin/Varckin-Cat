@@ -1,14 +1,18 @@
-# varckin_cat
+# Varckin cat
 
 A fork of https://github.com/adryd325/oneko.js
 
 ## Usage
 
 Include the script on your page:
+```
 <script src="varckin_cat.js"></script>
+```
 
 By default the cat image is expected at ./varckin_cat.gif. You can change it with the data-cat attribute:
+```
 <script src="varckin_cat.js" data-cat="your-custom-cat.gif"></script>
+```
 
 ## Features
 
